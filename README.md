@@ -10,8 +10,7 @@
 5. [Folder Structure](#folder-structure)
 6. [Technologies Used](#technologies-used)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+
 
 
 ## Introduction
@@ -194,7 +193,7 @@ Thank you for considering contributing to the Hospital Room Booking System! Your
 2. **Clone the Repository:**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/hospital-room-booking-system.git
+     git clone https://github.com/atubak400/Room-Booking-System-for-Hospitals.git
      ```
 
 3. **Create a Branch:**
@@ -237,4 +236,5 @@ Thank you for considering contributing to the Hospital Room Booking System! Your
 - Clearly describe the problem, provide steps to reproduce, and include any relevant information.
 
 Your contributions, whether big or small, are highly valued. Thank you for helping make the Hospital Room Booking System a better solution for everyone!
+
 # Room-Booking-System-for-Hospitals
